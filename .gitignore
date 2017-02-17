@@ -1,0 +1,5 @@
+**/.vscode
+get-pip.py
+**/*.pyc
+**/node_modules
+**/bower_components

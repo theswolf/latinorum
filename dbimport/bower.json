@@ -1,0 +1,20 @@
+{
+  "name": "dbimport",
+  "authors": [
+    "theswolf <chris.geymo@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lokijs": "^1.4.2"
+  }
+}
